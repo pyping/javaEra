@@ -6,5 +6,6 @@ public interface Wallet_DAO {
 	
 	String payByWallet();
 	
+	String checkWallet();
 	
 }
